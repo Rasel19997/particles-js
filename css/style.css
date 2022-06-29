@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+
+}
+#particles-js{
+    background-image: url(https://raw.githubusercontent.com/Rasel19997/my-img/main/pink-324175_1280.webp);
+}
